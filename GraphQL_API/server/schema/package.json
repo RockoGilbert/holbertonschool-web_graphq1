@@ -1,0 +1,19 @@
+{
+  "name": "schema",
+  "version": "1.0.0",
+  "description": "",
+  "main": "schema.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RockoGilbert/holbertonschool-web_graphq1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RockoGilbert/holbertonschool-web_graphq1/issues"
+  },
+  "homepage": "https://github.com/RockoGilbert/holbertonschool-web_graphq1#readme"
+}
